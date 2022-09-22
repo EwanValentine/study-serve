@@ -2,6 +2,8 @@
 
 Tool for curating snippets and topics for revising for exams or preparing for academic research.
 
+First and foremost, this should be useful to me, and me alone. Then I can start thinking about what features other folks might want/need from this.
+
 ## Concepts
 - Topic - a topic is a specific subject of study, for example: Artificial Intelligence Formal Logic
 - Artefact - is a snippet relating to a specific topic. For example, a description of a subject that you found to be a useful reference point, or a series of key concepts extracted from text books etc. The content along with an additional field 'tags', will be indexed in search, so you can quickly retrieve this information.
