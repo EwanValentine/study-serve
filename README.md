@@ -18,6 +18,9 @@ Tool for curating snippets and topics for revising for exams or preparing for ac
 ## Ideas 
 - Snippet creator, something like Pocket, for example. Chrome extension which adds artefacts directly from the browser.
 - Fully deployed cloud version, where user's can create accounts and use this as an actual 'thing', perhaps with some premium features.
+- Quiz's based on specific artefacts, use text vectorisation to assess 'closeness'
+- Quiz's based on topics, similar to just the artefacts one, but more broad based questions.
+- Artefacts and Topcis could both have Quiz->Answer sub-types, and track the percentage of correctness over time.
 
 ## Example Usage
 
